@@ -1,0 +1,5 @@
+com/xmlrecetas/RecetasHandlerXML.class
+com/xmlrecetas/XMLRecetas.class
+modelo/Receta.class
+modelo/Ingrediente.class
+modelo/Alimento.class
